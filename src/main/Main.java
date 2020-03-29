@@ -7,11 +7,8 @@ import javax.swing.UIManager.LookAndFeelInfo;
 
 import controller.MainController;
 import controller.MainControllerOperations;
-import model.EmpleadoEmpanada;
-import model.EmpleadoFijo;
 import model.Jefe;
 import view.MainView;
-import view.ViewOperations;
 
 public class Main {
 
